@@ -1,0 +1,12 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+ol{
+    list-style: none;
+    padding: 0;
+}
+li{
+    padding: 5px 10px;
+    background-color: #0eed37;
+    border: 1px solid #1fff14;
+}
